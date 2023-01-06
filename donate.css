@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.banner {
+    background-image: url('/images/donation10.jpg');
+    background-size: cover;
+    background-color:gray;
+    background-blend-mode:multiply;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner-details {
+    padding: 140px 300px;
+    text-align: center;
+    color: white;
+}
+.banner-title {
+    padding-bottom: 20px;
+}
+
+.banner-paragraph {
+    padding-bottom: 30px;
+}
+
+.banner-button {
+    padding:16px 20px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+}
+
+/* Donate Amount */
+
+.donate-amount {
+    text-align: center;
+    padding-top: 130px;    
+}
+.donate-amount-title {
+    text-align: center;
+    padding: 10px 374px;
+    padding-bottom: 30px;
+}
+
+.donate-amount-list {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content:space-around;
+    margin-right: 337px;
+    margin-left: 337px;
+}
+
+.donate-amount-list li {
+    padding: 43px 23px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin-bottom: 60px;
+}
+
+.list-taka {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+
+.other-amount {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.text {
+    margin-bottom: 9px;
+    border: none;
+    text-align: center;
+}
+
+.hrhr {
+    border: 1px solid #DADADA;
+}
+
+/* Donate Plan */
+
+.donate-plan {
+    text-align: center;
+    margin-top: 130px;
+    padding-bottom: 20px;
+    background-size: 691px 130px;
+}
+
+.plan-desciption {
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.about-info-container {
+    display: flex;
+    gap: 24px;
+    margin-left: 157px;
+    margin-right: 157px;
+}
+
+.about-info {
+    padding: 63px 22px 54px 22px;
+}
+
+.about-info h2 {
+    padding-top: 30px ;
+    padding-bottom: 15px;
+}
+
+.about-info p {
+font-size: 18px;
+}
+
+/* depend-on */
+
+.depend-on {
+    margin-top: 130px;
+    text-align: left;
+    margin-left: 156px;
+    display: flex;
+    text-align: left center;
+    margin-bottom: 50px;
+}
+
+.depend-on-img {
+    width: 500px;
+    height: 500px;
+    margin-right: 256px;
+    margin-left: 83px;
+}
+
+.depend-title {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.depend-description {
+    padding-bottom: 20px;
+}
+
+.depend-on-img {
+    border-radius: 10px 1px;
+}
+
+/* need us */
+
+.need-us {
+    display: flex;
+    padding-bottom: 100px;
+    background-size: 50px 50px ;
+    padding-left: 156px;
+}
+
+.need-us .need-us-img {
+
+}
+
+.need-us-us {
+    padding-left: 20px;
+    margin-right: 150px;
+    padding-top: 30px;
+
+}
+.need-us-title {
+    padding-left: 20px;
+
+}
+
+.need-us-description {
+    padding-left: 20px;
+
+}
+
+.need-us .need-us-img {
+   padding-left: 20px;
+   text-align: right;
+}
+
+/*  */
+
+.updates {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.email-btn {
+    background-color: #FF5959;
+    display: flex;
+    justify-content:center;
+    padding: 50px ;
+}
+
+/* humble */
+
+.humble {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
